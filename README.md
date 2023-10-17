@@ -14,7 +14,7 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
-![image](https://github.com/KaanKalmi/all-human-accessible-website/assets/144000125/47889cf4-b7cb-41d5-8805-66014d30f38c)
+![image](https://github.com/KaanKalmi/all-human-accessible-website/assets/144000125/5306c7a3-8c4c-4a92-8657-d5313cc35652)
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
