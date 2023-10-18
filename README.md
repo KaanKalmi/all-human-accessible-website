@@ -14,7 +14,9 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 In deze sprint staat toegangelijk voor aan. Ik ga dus de website van sprint 2 opnieuw coderen met als doel om het te verbeteren met de WCAG richtlijnen en feedback dat is ontvangen uit sprint 2. 
+
 Hierbij heb ik ook dus een nieuwe design bedacht, wat werkt als volgt:
+
 ...
 
 <!-- Voeg een mooie poster visual toe 📸 -->
