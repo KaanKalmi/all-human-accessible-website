@@ -13,6 +13,10 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+In deze sprint staat toegangelijk voor aan. Ik ga dus de website van sprint 2 opnieuw coderen met als doel om het te verbeteren met de WCAG richtlijnen en feedback dat is ontvangen uit sprint 2. 
+Hierbij heb ik ook dus een nieuwe design bedacht, wat werkt als volgt:
+...
+
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![image](https://github.com/KaanKalmi/all-human-accessible-website/assets/144000125/5306c7a3-8c4c-4a92-8657-d5313cc35652)
 
@@ -24,7 +28,8 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 
 
 ## Bronnen
-
+* https://www.a11yproject.com/
+* https://www.w3.org/WAI/standards-guidelines/wcag/
 ## Licentie
 
 
