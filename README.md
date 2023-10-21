@@ -23,6 +23,7 @@ Hierbij heb ik ook dus een nieuwe design bedacht, wat werkt als volgt:
 ![image](https://github.com/KaanKalmi/all-human-accessible-website/assets/144000125/5306c7a3-8c4c-4a92-8657-d5313cc35652)
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
+https://kaankalmi.github.io/all-human-accessible-website/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
