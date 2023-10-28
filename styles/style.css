@@ -5,30 +5,41 @@ body {
     font-weight: 400;
     line-height: 1.5em;
     margin: 0;
-    display: grid;
-    grid-template-areas:
-        "nav nav"
-        "hpstat fpstat"
-        "hpinf fpinf";
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: .5fr .5fr;
+
 }
 
-h2{
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+    justify-items: center;
+    align-items: center;
+    gap: 15px;
+    padding-top:4em ;
+}
+
+.grid-item {
+    padding: 20px;
+}
+
+h2 {
     text-align: center;
 }
+
 nav {
     background: rgba(240, 241, 241, 0.75);
     height: 2.8em;
-    position: relative;
+    position: fixed;
     top: 0;
-    grid-area: nav;
+    left: 0;
+    width: 100%;
 }
 
-.stat{
+.stat {
     width: 22rem;
     height: 13rem;
 }
+
 .logo {
     display: inline;
     float: left;
@@ -63,25 +74,21 @@ article {
 }
 
 .hpstat {
-    grid-area: hpstat;
     width: 27.1875rem;
     height: 21.875rem;
 }
 
 .fpstat {
-    grid-area: fpstat;
     width: 27.1875rem;
     height: 21.875rem;
 }
 
 .hpinf {
-    grid-area: hpinf;
     width: 27.1875rem;
     height: 21.875rem;
 }
 
 .fpinf {
-    grid-area: fpinf;
     width: 27.1875rem;
     height: 21.875rem;
 }
