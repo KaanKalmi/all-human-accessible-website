@@ -1,0 +1,59 @@
+body{
+    background-color: #EEEDF3;
+    font-family: sans-serif;
+
+}
+
+header{
+    background-image: url(/assets/headerbg.png);
+    }
+
+.logo{
+    height: 6em;
+    width: 5em;
+}
+
+nav{
+    background-color: RGBA(13, 99, 107, 0.15);
+    height: 4em;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+nav li{
+    display: inline;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+li a{
+    color: #010101;
+}
+
+.cloud{
+    float: right;
+    background: white;
+    width: 12em;
+    height: 10em;
+}
+
+blockquote{
+    max-width: 25ch;
+}
+
+.indi{
+    float: left;
+}
+
+.cont{
+    float: right;
+}
+
+.info{
+    display: none;
+}
