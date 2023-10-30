@@ -1,7 +1,7 @@
 body {
     background: #61665D;
     color: #1A171B;
-    font-family: serif;
+    font-family: 'Roboto Serif', serif;
     font-weight: 400;
     line-height: 1.5em;
     margin: 0;
@@ -114,7 +114,7 @@ article {
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
     color: white;
     position: absolute;
     top: 22em;
