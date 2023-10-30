@@ -14,12 +14,12 @@ body {
     grid-template-rows: repeat(2, auto);
     justify-items: center;
     align-items: center;
-    gap: 15px;
-    padding-top:4em ;
+    gap: 3em;
+    padding-top:5em ;
 }
 
 .grid-item {
-    padding: 20px;
+    padding: 1.2em;
 }
 
 h2 {
@@ -29,15 +29,24 @@ h2 {
 nav {
     background: rgba(240, 241, 241, 0.75);
     height: 2.8em;
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
+    font-weight: 600;
+    box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.25);
+}
+
+.user{
+    border-radius: 2em;
+    height: 2em;
+    width: 2em;
 }
 
 .stat {
     width: 22rem;
     height: 13rem;
+    align-items: center;
 }
 
 .logo {
@@ -55,6 +64,7 @@ li {
     display: inline;
     padding-right: 1em;
     padding-left: 1em;
+    border-left: 1px solid;
 }
 
 li a {
@@ -64,31 +74,51 @@ li a {
 
 .rightalign {
     float: right;
-    margin-right: 1em;
+    margin-right: 1.2em;
 }
 
 article {
+    position: relative;
     border-radius: 0.9em;
     background: rgba(240, 241, 241, 0.75);
     padding: .5em;
+    box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.25);
 }
 
 .hpstat {
-    width: 27.1875rem;
-    height: 21.875rem;
+    width: 27rem;
+    height: 21rem;
 }
 
 .fpstat {
-    width: 27.1875rem;
-    height: 21.875rem;
+    width: 27rem;
+    height: 21rem;
 }
 
 .hpinf {
-    width: 27.1875rem;
-    height: 21.875rem;
+    width: 27rem;
+    height: 15rem;
 }
 
 .fpinf {
-    width: 27.1875rem;
-    height: 21.875rem;
+    width: 27rem;
+    height: 15rem;
+}
+
+.calc{
+    background-color:#598649;
+    border: 1px solid;
+    border-radius: 2em;
+    border-color: #598649;
+    box-shadow: 0px 6px 15px 0px rgba(89, 134, 73, 0.55);
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    position: absolute;
+    top: 22em;
+    left: 10em;
 }
