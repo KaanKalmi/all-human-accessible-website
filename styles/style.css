@@ -5,7 +5,6 @@ body {
     font-weight: 400;
     line-height: 1.5em;
     margin: 0;
-
 }
 
 .grid-container {
@@ -15,7 +14,7 @@ body {
     justify-items: center;
     align-items: center;
     gap: 3em;
-    padding-top:5em ;
+    padding-top:5em;
 }
 
 .grid-item {
@@ -24,8 +23,13 @@ body {
 
 h2 {
     text-align: center;
+    font-weight: 700;
 }
 
+h3{
+    text-align: center;
+    font-weight: 700;
+}
 nav {
     background: rgba(240, 241, 241, 0.75);
     height: 2.8em;
@@ -35,12 +39,6 @@ nav {
     width: 100%;
     font-weight: 600;
     box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.25);
-}
-
-.user{
-    border-radius: 2em;
-    height: 2em;
-    width: 2em;
 }
 
 .stat {
@@ -105,7 +103,7 @@ article {
     height: 15rem;
 }
 
-.calc{
+.calc-btn{
     background-color:#598649;
     border: 1px solid;
     border-radius: 2em;
