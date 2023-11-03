@@ -1,39 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz@8..144&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/style_2.css">
     <title>Handprint</title>
 </head>
-<body>
-    <nav>
+
+<body class="hfstat">
+    <nav class="nav2">
         <img src="assets/logo.png" alt="logo" class="logo">
         <ul>
             <li> <a href="index.html" alt="Homepage"> Overview </a> </li>
             <li> <a href="handprint.html" alt="Handprint"> Handprint </a> </li>
             <li> <a href="footprint.html" alt="Footprint"> Footprint </a> </li>
-            <li>  <a href="account.html" alt="account" class="rightalign"> Account </a> </li>
+            <li> <a href="account.html" alt="account" class="rightalign"> Account </a> </li>
         </ul>
     </nav>
-    <main>
+    <main class="grid-main">
         <article class="hpstat">
-            <img src="assets/Status meter.png">
-            <a href="handprint.html" class="calc-btn"> Calculate </a>
+            <img src="assets/Status meter.png" class="stat">
+            <a href="handprint.html" class="calc-btn-2"> Calculate </a>
         </article>
         <article class="graph">
-            <img src="#">
+            <h3> Moment opname</h3>
+            <img src="assets/history.svg.png" class="stat">
         </article>
         <article class="stakeholder">
-            <img src="#">
-            <img src="#">
-            <img src="#">
-            <img src="#">
-            <img src="#">
+            <div>
+                <img src="assets/supplier.png">
+                <small> Supplier: 40%</small>
+            </div>
+            <div>
+                <img src="assets/environment.png">
+                <small> Environment: 15%</small>
+            </div>
+            <div>
+                <img src="assets/client.png">
+                <small> Client: 15%</small>
+            </div>
+            <div>
+                <img src="assets/owners.png">
+                <small> Owners: 20%</small>
+            </div>
+            <div>
+                <img src="assets/staff.png">
+                <small> Staff: 15%</small>
+            </div>
         </article>
     </main>
 </body>
+
 </html>
