@@ -33,6 +33,7 @@ https://kaankalmi.github.io/all-human-accessible-website/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+### HET IS NIET AF
 
 Ik heb in principe niks gebruikt wat betreft frameworks en/of libraries, wat ik wel heb gedaan is een grid gebruiken in CSS en een semantiek HTML opbouw gemaakt wat voldoet aan headings and landmarks test, keyboard test en ook screenreaders. 
 
